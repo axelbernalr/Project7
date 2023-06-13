@@ -1,0 +1,44 @@
+.topnav {
+    background-color: lightpink;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    text-align: center;
+    font-size: 23px;
+    font-weight: 100;
+
+}
+
+h1 {
+    color: lightsalmon;
+    text-align: center;
+}
+
+h2 {
+    color: lightblue;
+    text-align: center;
+}
+
+h3 {
+    color: lightsalmon;
+    text-align: center;
+}
+
+h4 {
+    color: lightsalmon;
+    text-align: center;
+}
+
+:visited {
+    color: white;
+}
+
+:link {
+    color: bisque;
+}
+
+p {
+    font-size: 25px;
+    text-align: center;
+}
